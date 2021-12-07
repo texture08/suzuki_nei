@@ -1,6 +1,7 @@
-# 鈴木ネイ 叫び音源
-[鈴木ネイ](https://suzukinei.jimdofree.com/)の叫び風追加音源です
+# 鈴木ネイ 追加音源
+[鈴木ネイ](https://suzukinei.jimdofree.com/)の追加音源を配布するページです
 
+##叫び風音源
 zipをDLして解凍、UTAUのシステムフォルダのvoise/鈴木ネイ単独音(バージョン)の中にD&Dで導入ができます
 
 ##注意
